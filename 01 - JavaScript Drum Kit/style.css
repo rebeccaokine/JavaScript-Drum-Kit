@@ -2,6 +2,8 @@ html {
   font-size: 10px;
   background: url('./drummer.jpg') bottom center;
   background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
 }
 
 body,html {
@@ -24,7 +26,7 @@ body,html {
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
-  transition: all .07s ease;
+  transition: all 0.07s ease;
   width: 10rem;
   text-align: center;
   color: white;
